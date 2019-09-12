@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="screen_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="list_item_margin">8dp</dimen>
+    <dimen name="common_margin_2dp">2dp</dimen>
+    <dimen name="product_large_image_width_height">240dp</dimen>
+    <dimen name="product_image_list_item_width_height">80dp</dimen>
+    <dimen name="h2_text_size">18sp</dimen>
+</resources>
